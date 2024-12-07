@@ -701,24 +701,12 @@ video {
   height: 80vh;
 }
 
-.h-full {
-  height: 100%;
-}
-
-.h-60 {
-  height: 15rem;
-}
-
-.h-80 {
-  height: 20rem;
-}
-
 .h-auto {
   height: auto;
 }
 
-.min-h-96 {
-  min-height: 24rem;
+.h-full {
+  height: 100%;
 }
 
 .w-1\/2 {
@@ -851,10 +839,6 @@ video {
 
 .border-2 {
   border-width: 2px;
-}
-
-.border {
-  border-width: 1px;
 }
 
 .border-b-2 {
@@ -1263,10 +1247,6 @@ video {
 
   .md\:justify-between {
     justify-content: space-between;
-  }
-
-  .md\:gap-10 {
-    gap: 2.5rem;
   }
 
   .md\:text-left {
