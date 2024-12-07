@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face{
+    font-family: myBrown;
+    src: url("../font/Brown Pro Bold.otf") format("opentype");
+}
